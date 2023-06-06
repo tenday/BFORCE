@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "836492017171",
+    "project_id": "bforce-1bd0e",
+    "storage_bucket": "bforce-1bd0e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836492017171:android:6b26b2ec2bb7a9b55149e6",
+        "android_client_info": {
+          "package_name": "com.lmsoftware.bforce_social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836492017171-k1ujkbu4b0laq5jfk9alolq5rgop0qtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAD6Qia8aclwQBrZJtkwbHgzbUIk0w8iTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836492017171-k1ujkbu4b0laq5jfk9alolq5rgop0qtp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "836492017171-ioahbl95ifc2sas26bob46jh63ni98mc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.lmsoftware.bforceSocialMedia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
